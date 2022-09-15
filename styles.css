@@ -1,6 +1,15 @@
 @import url(styles/header.css);
+@import url(styles/cabecalho.css);
+
+:root {
+    --branco: #FFFFFF;
+    --cinza: #667085;
+    --cinza-escuro: #3A404E;
+    --vermelho: #8E2424;
+}
 
 body {
+    background: var(--branco);
     font-family: 'Inter';
     font-size: 16px;
     font-weight: 400;
