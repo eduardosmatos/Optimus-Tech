@@ -1,7 +1,9 @@
 @import url(styles/header.css);
 @import url(styles/cabecalho.css);
+@import url(styles/metricas.css); 
 
 :root {
+    --azul-escuro: #101828;
     --branco: #FFFFFF;
     --cinza: #667085;
     --cinza-escuro: #3A404E;
