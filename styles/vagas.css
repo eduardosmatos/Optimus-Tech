@@ -36,3 +36,39 @@
 .vagas__imagem {
     margin: 64px 112px;
 }
+
+.titulo__vaga-area,
+.titulo__vaga {
+    font-weight: 500;
+    color: var(--azul-escuro);
+}
+
+.titulo__vaga-area {
+    font-size: 20px;
+    text-align: start;
+    margin: 64px auto 32px;
+    display: flex;
+    width: 43%;
+}
+
+.vaga {
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+    padding: 24px 24px 28px 24px;
+    gap: 24px;
+    margin: 0 auto;
+    width: 768px;
+}
+
+.titulo__vaga {
+    font-size: 18px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.informacoes {
+    display: flex;
+    gap: 24px;
+    color: var(--cinza);
+    margin-top: 32px;
+}
