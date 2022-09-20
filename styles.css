@@ -3,8 +3,10 @@
 @import url(styles/metricas.css);
 @import url(styles/vagas.css);
 @import url(styles/depoimentos.css);
+@import url(styles/rodape.css);
 
 :root {
+    --azul-claro: #F9FAFB;
     --azul-escuro: #101828;
     --branco: #FFFFFF;
     --cinza: #667085;
@@ -15,6 +17,7 @@
 body {
     background: var(--branco);
     font-family: 'Inter';
+    font-style: normal;
     font-size: 16px;
     font-weight: 400;
 }
