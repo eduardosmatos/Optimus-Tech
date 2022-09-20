@@ -1,0 +1,38 @@
+.vagas-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    text-align: center;
+    padding: 96px 0;
+}
+
+.vagas-abertas {
+    align-items: center;
+    display: flex;
+    background: rgba(142, 36, 36, 0.05);
+    border-radius: 16px;
+    color: var(--vermelho);
+    font-size: 14px;
+    font-weight: 500;
+    height: 20px;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 4px 12px;
+    width: 101px;
+}
+
+.vagas__titulo {
+    color: var(--azul-escuro);
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.vagas__texto {
+    color: var(--cinza);
+    font-size: 20px;
+}
+
+.vagas__imagem {
+    margin: 64px 112px;
+}
