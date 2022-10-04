@@ -7,6 +7,6 @@ Challenge proposto pela Giovanna Moeller, do Girl Coding. Um desafio de 7 dias, 
 
 <br>
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 
 ![7DaysOfCode](https://user-images.githubusercontent.com/27296909/191348286-acec2942-3bd4-4b62-85fd-a3694a333736.png)
