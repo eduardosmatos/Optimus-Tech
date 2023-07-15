@@ -1,6 +1,6 @@
-<h1 align="center">7DaysOfCode 💪🏻 </h1>
+<h1 align="center">OptimusTech </h1>
 
-<p align="center">Challenge proposto pela Giovanna Moeller, do Girl Coding. Um desafio de 7 dias, aonde coloco em prática os conhecimento de HTML e CSS aprendidos até agora, o desafio proposto é criar um site para uma empresa de TI que quer desenvolver uma página destinada a novas contratações e me contratou para resolver esse problema.</p>
+<p align="center">Challenge proposto pela Giovanna Moeller, do Girl Coding. Um desafio de 7 dias, aonde coloco em prática os conhecimento de HTML e CSS aprendidos, o desafio proposto é criar um site para uma empresa de TI que quer desenvolver uma página destinada a novas contratações e me contratou para resolver esse problema.</p>
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
