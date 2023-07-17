@@ -15,7 +15,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <img align="center" alt="Du-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-### 🔗 Link do Projeto: https://eduardosmatos.github.io/7DaysOfCode/
+### 🔗 Link do Projeto: https://eduardosmatos.github.io/Optimus-Tech/
 
 ### 🖼️ Imagem do Projeto
 ![7DaysOfCode](https://user-images.githubusercontent.com/27296909/191348286-acec2942-3bd4-4b62-85fd-a3694a333736.png)
